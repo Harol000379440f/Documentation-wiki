@@ -1,0 +1,7 @@
+---
+nav:    
+    - Home: index.md
+    - Arquitectura: arch
+    - Infraestructura: infra
+    - DevSecOps: devsecops
+    - Desarrollo: develop
